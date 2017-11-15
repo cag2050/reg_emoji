@@ -1,1 +1,1 @@
-运行 test.js 文件，会打印输出相关内容
+运行 test.js 文件，会打印输出相关内容(我的mac电脑，在Terminal里能看到打印出的表情，在webstorm里的Terminal无法看到)
